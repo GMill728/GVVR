@@ -1,7 +1,7 @@
 # GVVR
 
 ## Description
-GVVR, or Gavv's VR is a demo of a new NPC interaction framework I'm building
+GVVR (Gavv's VR) is an experimental NPC interaction framework for Unity XR, built with OpenXR. Currently working on perception and vision-based NPC detection, with more interaction systems planned.
 
 ## Dev Pics
 
